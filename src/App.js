@@ -5,7 +5,7 @@ import Text from './components-nav-bar/index';
 function App() {
   return (
     <Text />
-    
+    <navbar />
     
   );
 }
